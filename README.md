@@ -1,6 +1,6 @@
 ### Hi, I'm Mariana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Web Developer. 
+I’m a Full Stack Developer. 
 
 #### My current tools 
 📡 Back-end with PHP  
