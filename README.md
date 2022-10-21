@@ -12,6 +12,7 @@ I’m a Web Developer.
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianarinaldidesouza/)]([https://www.linkedin.com/in/rodrigo-goncalves-santana/](https://www.linkedin.com/in/marianarinaldidesouza/)) 
+[![Linkedin Badge]
+(https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianarinaldidesouza/)]([https://www.linkedin.com/in/rodrigo-goncalves-santana/](https://www.linkedin.com/in/marianarinaldidesouza/)
 
 
